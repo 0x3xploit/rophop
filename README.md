@@ -51,6 +51,5 @@ python3 rophop.py <filename.txt>
 - This tool is optimized for OSED exploit development.
 - The tool is under active development, and new features may be added.
 
-## License
-This project is licensed under the MIT License.
+
 
